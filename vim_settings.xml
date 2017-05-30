@@ -6,19 +6,22 @@
       <file name="/Python Console" timestamp="1496153244525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/funbot_invoker/function/funbot_invoker.py" timestamp="1496153651678">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/PycharmProjects/funbot_invoker/function/funbot_invoker.py" timestamp="1496154508382">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ym90bzMucmVzb3VyY2UoKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IOWumue+qQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ym90bzMucmVzb3VyY2UoKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
