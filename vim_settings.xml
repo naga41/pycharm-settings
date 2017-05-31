@@ -3,24 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1496153244525">
+      <file name="/Python Console" timestamp="1496155599014">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/funbot_invoker/function/funbot_invoker.py" timestamp="1496154508382">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/Python Fragment (funbot_invoker.py:0).py" timestamp="1496155739969">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/funbot_invoker/function/funbot_invoker.py" timestamp="1496155748018">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="45" column="0" filename="$USER_HOME$/PycharmProjects/funbot_invoker/function/funbot_invoker.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Ym90bzMucmVzb3VyY2UoKQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOnV0Zi04IC0qLQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ym90bzMucmVzb3VyY2UoKQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOnV0Zi04IC0qLQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ym90bzMucmVzb3VyY2UoKQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
@@ -37,6 +47,7 @@
     <history>
       <history-search />
       <history-cmd>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
